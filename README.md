@@ -65,6 +65,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) (medium)
 * [Rotate list](https://leetcode.com/problems/rotate-list/) (medium)
 * [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) (hard)
+* [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) (hard)
 ## Trees
 * [Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/) (easy)
 * [Convert sorted array to binary search tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) (easy)
